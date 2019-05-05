@@ -10,3 +10,4 @@ Tags:
 - Urlaub
 ---
 
+{{page.tags}}
